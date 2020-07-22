@@ -1,5 +1,6 @@
-Builds available at https://copr.fedorainfracloud.org/coprs/isimluk/gocomply/
+# Packages available
 
-Fedora Reviews
- * golang-github-gocomply-scap: https://bugzilla.redhat.com/show_bug.cgi?id=1854351
- * golie: https://bugzilla.redhat.com/show_bug.cgi?id=1854357
+| name          | epel7 | epel8 | f31 | f32 | f33 | rawhide|
+|---------------|-------|-------|-----|-----|-----|----------|
+| gocomply/scap | TODO  | WIP   | WIP | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| golie         | TODO  | WIP   | WIP | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
