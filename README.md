@@ -1,4 +1,4 @@
-# Packages available
+# Packages available [![Gitter](https://badges.gitter.im/GoComply/community.svg)](https://gitter.im/GoComply/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 | name                                                                             | epel7              | epel8              | fedora             |
 |----------------------------------------------------------------------------------|--------------------|--------------------|--------------------|
